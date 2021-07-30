@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Birthday Wish</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="click_to_create">Create Card</string>
+    <string name="hintName">Navdeep</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="select_image">Select Image</string>
+</resources>
